@@ -1,0 +1,30 @@
+// Hardcoded word bank for demonstration. In production, load from Firestore or backend.
+class WordBank {
+  static const List<Map<String, String>> words = [
+    {"word": "Ephemeral", "definition": "Lasting for a very short time.", "example": "The beauty of the cherry blossoms is ephemeral."},
+    {"word": "Ubiquitous", "definition": "Present, appearing, or found everywhere.", "example": "Smartphones have become ubiquitous in modern society."},
+    {"word": "Mellifluous", "definition": "A sound that is sweet and pleasant to hear.", "example": "Her mellifluous voice captivated the audience."},
+    {"word": "Pulchritudinous", "definition": "Having great physical beauty.", "example": "The model was known for her pulchritudinous features."},
+    {"word": "Serendipity", "definition": "The occurrence of events by chance in a happy or beneficial way.", "example": "Discovering the hidden cafe was a moment of pure serendipity."},
+    {"word": "Petrichor", "definition": "A pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather.", "example": "The scent of petrichor filled the air, a welcome sign of summer's end."},
+    {"word": "Ineffable", "definition": "Too great or extreme to be expressed or described in words.", "example": "The view from the mountaintop was one of ineffable beauty."},
+    {"word": "Sonder", "definition": "The realization that each random passerby is living a life as vivid and complex as your own.", "example": "Waiting for the train, I was struck by a sudden feeling of sonder."},
+    {"word": "Limerence", "definition": "The state of being infatuated with another person.", "example": "He was in a state of limerence, unable to think of anything but her."},
+    {"word": "Cacophony", "definition": "A harsh, discordant mixture of sounds.", "example": "The cacophony of city traffic was overwhelming."},
+    {"word": "Ethereal", "definition": "Extremely delicate and light in a way that seems too perfect for this world.", "example": "The ballerina's movements were ethereal and graceful."},
+    {"word": "Nefarious", "definition": "Wicked or criminal.", "example": "The villain's nefarious plot was foiled at the last minute."},
+    {"word": "Somnambulist", "definition": "A person who sleepwalks.", "example": "The somnambulist wandered through the house in the dead of night."},
+    {"word": "Anachronism", "definition": "A thing belonging to a period other than that in which it exists.", "example": "A smartphone in a Shakespeare play would be a glaring anachronism."},
+    {"word": "Juxtaposition", "definition": "The fact of two things being seen or placed close together with contrasting effect.", "example": "The juxtaposition of old and new architecture was striking."},
+    {"word": "Lethargy", "definition": "A lack of energy and enthusiasm.", "example": "A feeling of lethargy washed over him after the large meal."},
+    {"word": "Misanthrope", "definition": "A person who dislikes humankind and avoids human society.", "example": "The old misanthrope lived alone in a cabin in the woods."},
+    {"word": "Ostracize", "definition": "Exclude from a society or group.", "example": "He was ostracized by his colleagues for his unpopular opinions."},
+    {"word": "Philanthropy", "definition": "The desire to promote the welfare of others, expressed especially by the generous donation of money to good causes.", "example": "The billionaire was known for his philanthropy and support of education."},
+    {"word": "Zephyr", "definition": "A soft gentle breeze.", "example": "A cool zephyr rustled the leaves on the trees."},
+    {"word": "Alacrity", "definition": "Brisk and cheerful readiness.", "example": "She accepted the invitation with alacrity."},
+    {"word": "Brevity", "definition": "Concise and exact use of words in writing or speech.", "example": "The brevity of his speech was appreciated by the busy audience."},
+    {"word": "Candor", "definition": "The quality of being open and honest.", "example": "I appreciate your candor in this difficult situation."},
+    {"word": "Dichotomy", "definition": "A division or contrast between two things that are or are represented as being opposed or entirely different.", "example": "There is a dichotomy between the rich and the poor in this city."},
+    {"word": "Enigma", "definition": "A person or thing that is mysterious, puzzling, or difficult to understand.", "example": "The disappearance of the ancient civilization remains an enigma."},
+  ];
+}
